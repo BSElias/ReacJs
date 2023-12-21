@@ -5,6 +5,7 @@ const CartWidget = () => {
     const cantidadItems = 1 
     return (
         <div>
+            <BsBag />
             <p>{cantidadItems}</p>
         </div>
     ) 
